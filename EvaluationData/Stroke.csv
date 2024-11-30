@@ -1,0 +1,49 @@
+Element,Question_Text,Values,GoldName,GoldID
+Last known to be well date and time,Date and Time last known well,,Last known to be well date and time,KcxNh3xoqox
+Symptom discovery date and time*,Date and Time of discovery of stroke symptoms,,Symptom onset date and time,zchhFN0eM1Y
+Symptom awaken discover indicator,C14190,Yes |  No |  Unknown,Symptom awaken discover indicator,h03YYW1GZoz
+Stroke symptoms discover location type,Patient location when stroke symptoms discovered,Stroke occurred while patient was an inpatient in your hospital |  Unknown |  Another acute care facility (e.g. outside hospital) |  Chronic healthcare facility (e.g. skilled nursing facility) |  Not in a healthcare setting (e.g. at place of residence and not in a hospital or clinic) |  Outpatient healthcare setting (e.g. clinic),Stroke symptoms discover location type,DMW1htkDkRD
+Hospital transport type,Type of transport to hospital,"Mobile Stroke Unit |  EMS from home/scene |  Private transportation/taxi/other from home/scene |  Unknown |  Other, specify",Hospital transport type,z3jbnCdyaqE
+Hospital arrival date and time,Date of hospital arrival,,Hospital arrival date and time,kzqKY0HP3RW
+IV thrombolytic initiated at this hospital,Is there documentation that IV thrombolytic was initiated at this hospital?,Yes | No,IV tPA initiated status,_eP9U0KZgSY
+IV thrombolytic initiated date and time,Date and Time IV thrombolytic initiated,,IV tPA initiated date and time,E14qupDxSBA
+IV thrombolytic used,Thrombolytic used,Alteplase |  Tenecteplase,IV tPA initiated status,_eP9U0KZgSY
+IV thrombolytic at an outside hospital or Mobile Stroke Unit?,Was an IV thrombolytic (Alteplase or Tenecteplase) initiated at an outside hospital or Mobile Stroke Unit,Yes |  No |  Unknown,IV tPA at another hospital indicator,NgMmTcX7z_u
+Intra-arterial (IA) procedure initiated indicator,Was an IA procedure initiated at this hospital,Yes |  No |  Unknown,Intra-arterial (IA) procedure initiated indicator,rjzECep5zCe
+Intra-arterial (IA) procedure type,Type of IA procedure,Pharmacological |  Mechanical |  Both,Intra-arterial (IA) procedure type,TrHUNrNGeqj
+Intra-arterial (IA) procedure groin puncture date/time,Date and Time of groin puncture for IA procedure,,Intra-arterial (IA) procedure groin puncture date and time,qzf4jpWzz72
+Intra-arterial (IA) catheter-based reperfusion initiated date/time,Date and Time IA catheter-based reperfusion initiated,,Intra-arterial (IA) catheter-based reperfusion initiated date and time,abEb70XxDNF
+Intervention mechanical or pharmacological end date/time,Date and Time of last angiographic image or the end time for mechanical/pharmacologic intervention,,Intervention mechanical or pharmacological end time,yDAF_2NW2mv
+Angiographic image last date and time,Date and Time of last angiographic image or the end time for mechanical/pharmacologic intervention,,Angiographic image last date and time,zVGYblj2Cz
+Intra-arterial (IA) catheter-based reperfusion other hospital indicator,Was IA catheter-based reperfusion initiated at an outside hospital,Yes |  No |  Unknown,Intra-arterial (IA) catheter-based reperfusion other hospital indicator,3ZXfYeon8Ad
+Imaging Modality Type,Imaging modality,Non-contrast CT |  X-Ray Angiography |  Contrast CT |  MRI |  CT Angiography |  DSA |  MRA/MRV |  CTA/CTV |  Cone Beam Computed Tomography (CBCT),Imaging modality type,xsc_0vv9Q3E
+Hospital Street Address,Address of hospital providing stroke care,,Address Line 1||Address Line 2,elEZcZ9NdL||pCW788Mqei
+Sleep start date/time for sleep episode prior to symptom discovery (for symptom discovery while awake),Date and Time patient fell asleep prior for sleep period prior to subsequent symptom discovery while awake,,null,Mapping_Not_Found
+Wake-up date/time for sleep episode prior to symptom discovery (for symptom discovery while awake),Date and Time of awakening for sleep period prior to subsequent symptom discovery while awake,,null,Mapping_Not_Found
+Estimated stroke onset date and time - sleep midpoint estimate,C05418,,null,Mapping_Not_Found
+Estimated stroke onset date and time  - 1h pre-awake estimate,C14396,,null,Mapping_Not_Found
+Successful reperfusion,Was end of procedure mTICI 2B-3?,Yes | No,null,Mapping_Not_Found
+Successful reperfusion date/time,What was the date/time that an mTICI 2B-3 was first documented during the mechanical thrombectomy procedure?,,null,Mapping_Not_Found
+Ultra-Short Munich Chronotype Questionnaire (MCTQ) - Shift/night worker,"Eur: ""I have been a shift- or night-worker in the past three months"" / US: ""I have been an evening-shift, night-shift, or rotating shift worker in the past three months.""",Yes |  No,null,Mapping_Not_Found
+Ultra-Short Munich Chronotype Questionnaire (MCTQ) - Work Days per Week,"Normally, I work _____ days/week",,null,Mapping_Not_Found
+Ultra-Short Munich Chronotype Questionnaire (MCTQ) - Workdays fall asleep,"On WORKDAYS, I normally fall asleep at",,null,Mapping_Not_Found
+Ultra-Short Munich Chronotype Questionnaire (MCTQ) - Workdays Wake up,"On WORKDAYS, I normally wake up at",,null,Mapping_Not_Found
+Ultra-Short Munich Chronotype Questionnaire (MCTQ) - Work-free days fall asleep,"On WORK-FREE DAYS, I normally fall asleep at",,null,Mapping_Not_Found
+Ultra-Short Munich Chronotype Questionnaire (MCTQ) - Work-free days Wake up,"On WORK-FREE DAYS, I normally wake up at",,null,Mapping_Not_Found
+UK Biobank - Shift work,Does your work involve shift work?¬† ,Never/Rarely |  Sometimes |  Usually |  Always |  Do not know |  Prefer not to answer,null,Mapping_Not_Found
+UK Biobank - Night work,Does your work involve night shifts?¬† ,Never/Rarely |  Sometimes |  Usually |  Always |  Do not know |  Prefer not to answer,null,Mapping_Not_Found
+Imaging Study Date and Time,Imaging study date and time,,Imaging study date and time,Wf9qPBhVPso
+Weekday/Weekend/Holiday,"Is this date locally a weekday, weekend, or holiday.",Weekday |  Weekend |  Holiday,null,Mapping_Not_Found
+Hospital Location Longitude,,,null,Mapping_Not_Found
+Hospital Location Latitude,,,null,Mapping_Not_Found
+Time Zone Travel,Traveled across time zones in the past 7d,Yes | No,null,Mapping_Not_Found
+Time Zone Travel Direction,Direction of time one travel,East | West,null,Mapping_Not_Found
+Time Zone Travel Number,Number of time zones crossed,,null,Mapping_Not_Found
+Anticoagulant(s) taken prior to stroke,Anticoagulant medication(s) taken prior to stroke,apixaban |  argatroban |  dabigatran |  desirudin |  edoxaban |  fondaparinux |  full dose LMW heparin |  lepirudin |  rivaroxaban |  unfractionated heparin IV |  warfarin |  other anticoagulant,Medication anticoagulant current former type,Qk0q_u509m
+Antiplatelet agent(s) taken prior to stroke,Antiplatelet medication(s) taken prior to stroke,aspirin |  aspirin/dipyridamole (combination tablet) |  cilostazol |  clopidogrel |  dipyridamole |  prasugrel |  ticagrelor |  ticlopidine |  other antiplatelet,null,Mapping_Not_Found
+Antihypertensive agent(s) taken prior to stroke,Antihypertensive medication(s) taken prior to stroke,,null,Mapping_Not_Found
+Usual time of 1st dose,Usual time patient takes 1st dose of this medication,,null,Mapping_Not_Found
+Usual time of 2nd dose,Usual time patient takes 2nd dose of this medication,,null,Mapping_Not_Found
+Usual time of 3rd dose,Usual time patient takes 3rd dose of this medication,,null,Mapping_Not_Found
+Usual time of 4th dose,Usual time patient takes 4th dose of this medication,,null,Mapping_Not_Found
+Date and time of last agent dose prior to stroke,Last pre-stroke dose date and time,,null,Mapping_Not_Found

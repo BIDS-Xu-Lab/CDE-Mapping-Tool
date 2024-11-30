@@ -1,0 +1,41 @@
+Element,Question_Text,Values,GoldName,GoldID
+Year of Birth,,,Date of Birth,wgPM2Ge1Fq
+Provider Zip code,,,Postal Zip Code,eT7V_ETn_6
+Gender,,Male | Female| Unknown/missing,Gender,NKwM4gsfXS
+Insurance Effective Date,,,null,Mapping_Not_Found
+Immunization Date (week#),,,null,Mapping_Not_Found
+Smoking,,Never | Current | Former,null,Mapping_Not_Found
+Visit Code,,,null,Mapping_Not_Found
+Visit Date,,,null,Mapping_Not_Found
+Visual Acuity Type,,Corrected Visual Acuity | Uncorrected Visual Acuity | Unspecified,null,Mapping_Not_Found
+Visual Acuity Laterality,,OD= Right | OS= Left | OU= Both,null,Mapping_Not_Found
+Visual Acuity,,,null,Mapping_Not_Found
+Cup to Disc Date (week#),,,null,Mapping_Not_Found
+Cup to Disc Value,,,null,Mapping_Not_Found
+Cup to Disc Laterality,,OD= Right | OS= Left | OU= Both,null,Mapping_Not_Found
+Intraocular Pressure Date (week#),,,null,Mapping_Not_Found
+Intraocular Pressure Laterality,,OD= Right | OS= Left | OU= Both,null,Mapping_Not_Found
+Intraocular Pressure Measurement,,,null,Mapping_Not_Found
+Procedure Date (week#),,,null,Mapping_Not_Found
+Procedure Laterality,,OD (Right) | OS (Left) | OU (Both) | Unspecified,null,Mapping_Not_Found
+Procedure,,CPT | HCPCS,null,Mapping_Not_Found
+Diagnosis Date (week#),,,null,Mapping_Not_Found
+Diagnosis Laterality,,OD (Right) | OS (Left) | OU (Both) | Unspecified,null,Mapping_Not_Found
+Diagnosis,,ICD 9 | ICD 10 |SNOMED,null,Mapping_Not_Found
+Medication Code,,RX Norm | NDC codes |  Generic Product Identifier (GPI),null,Mapping_Not_Found
+Medication Name,,,null,Mapping_Not_Found
+Medication Start Date (week#),,,null,Mapping_Not_Found
+Race-White,,No | Yes | Unknown/missing,Race,Fakc6Jy2x
+Race - Black/African American,,No | Yes | Unknown/missing,Race,Fakc6Jy2x
+Race-American Indian/Alaskan Native,,No | Yes | Unknown/missing,Race,Fakc6Jy2x
+Race-Native Hawaiian/Pacific Islander,,No | Yes | Unknown/missing,Race,Fakc6Jy2x
+Race - Asian,,No | Yes | Unknown/missing,Race,Fakc6Jy2x
+Hispanic or Latino Ethnicity,,No | Yes | Unknown/missing,Ethnicity||Race/Ethnicity Self-Identification,PtRlg7yLP_||LakF0YkywC
+Insurance-Military /Department of Defense/TRICARE,,No | Yes | Unknown/missing,Category of Health Insurance||Health Insurance,cPiK4Amjn5||e4Dng_5sU66
+Insurance- Other Government- State/Local government; Indian Health Service,,No | Yes | Unknown/missing,Category of Health Insurance||Health Insurance,cPiK4Amjn5||e4Dng_5sU66
+Insurance- Private Health Insurance,,No | Yes | Unknown/missing,Category of Health Insurance||Health Insurance,cPiK4Amjn5||e4Dng_5sU66
+Insurance- Medicare FFS (Part B),,No | Yes | Unknown/missing,Category of Health Insurance||Health Insurance,cPiK4Amjn5||e4Dng_5sU66
+Insurance-Medicare Managed Care (Advantage Plans),,No | Yes | Unknown/missing,Category of Health Insurance||Health Insurance,cPiK4Amjn5||e4Dng_5sU66
+Insurance-Medicaid,,No | Yes | Unknown/missing,Category of Health Insurance||Health Insurance,cPiK4Amjn5||e4Dng_5sU66
+"Insurance- Miscellaneous/Other-Foreign National, Worker‚Äôs Comp, Auto Insurance",,No | Yes | Unknown/missing,Category of Health Insurance||Health Insurance,cPiK4Amjn5||e4Dng_5sU66
+Insurance- No Insurance/Payment Listed,,No | Yes ,Category of Health Insurance||Health Insurance,cPiK4Amjn5||e4Dng_5sU66

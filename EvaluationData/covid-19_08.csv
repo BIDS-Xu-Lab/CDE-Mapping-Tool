@@ -1,0 +1,22 @@
+Query,Element,Variable_Label,Question,Response,Source,GoldName,GoldID
+"Medication Name_Reported Name of Drug, Med, or Therapy_ConMeds",Medication Name,"Reported Name of Drug, Med, or Therapy",CM medication name.,,ConMeds,Concomitant Medication Name,8n2_4wdCZ3
+Result [Many]_VS Result or Finding in Original Units_Vital Signs,Result [Many],VS Result or Finding in Original Units,What was the result of the vital sign measurement?,,Vital Signs,Vital Signs Measurement,IX1Nkv95bC
+Unit [Many]_VS Original Units_Vital Signs,Unit [Many],VS Original Units,What were the units of the vital sign measurement?,,Vital Signs,Vital Signs Unit Of Measure,3DO9ttnND
+Dose Unit_CM Dose units_ConMeds,Dose Unit,CM Dose units,What is the unit for the dose of [selected medication]?,,ConMeds,null,Mapping_Not_Found
+Dose_CM Dose per Administration_ConMeds,Dose,CM Dose per Administration,What was the individual dose of [selected medication] per administration?,,ConMeds,null,Mapping_Not_Found
+Medication Category_Category for Medication_ConMeds,Medication Category,Category for Medication,CM medication category.,,ConMeds,COVID-19 Specific Medication Type||Concomitant Medication Name,F1cRMBIU5||8n2_4wdCZ3
+"Start Month_Concomitant Meds Start Date, Month_ConMeds",Start Month,"Concomitant Meds Start Date, Month",What was the [selected medication] start month? ,,ConMeds,null,Mapping_Not_Found
+Study Identifier_Study Identifier_Adverse Events,Study Identifier,Study Identifier,,,Adverse Events,Study Identifier,FiTk9B5lx
+Study Identifier_Study Identifier_Organ Support Outcomes,Study Identifier,Study Identifier,,,Organ Support Outcomes,Study Identifier,FiTk9B5lx
+Study Identifier_Study Identifier_Vaccinations,Study Identifier,Study Identifier,,,Vaccinations,Study Identifier,FiTk9B5lx
+Study Site_StudySite Identifier_Organ Support Outcomes,Study Site,StudySite Identifier,,,Organ Support Outcomes,Study Site Identifier,YgFwJdEh0
+Subject Identifier_Subject Identifier for the Study_Vital Signs,Subject Identifier,Subject Identifier for the Study,,,Vital Signs,Subject ID,Aguk0xu_dB
+Time of collection_Specimen Collection Time_Clinical Labs,Time of collection,Specimen Collection Time,What was the (start) time of the lab specimen collection?,,Clinical Labs,null,Mapping_Not_Found
+Time of collection_Vital Signs Time_Vital Signs,Time of collection,Vital Signs Time,What was the (start) time of the  vital sign measurement?,,Vital Signs,Vital Signs Date and Time||Vital Signs Timepoint||Vital Signs Specify Other Timepoint,J3qB_spuJO||R62LLauN_A||cV5b_jaoel
+Total Dose_CM Total Daily Dose_ConMeds,Total Dose,CM Total Daily Dose,,,ConMeds,null,Mapping_Not_Found
+Unit_Units associated with Lab Result or Finding_Clinical Labs,Unit,Units associated with Lab Result or Finding,,,Clinical Labs,null,Mapping_Not_Found
+Vital Sign [Many]_Vital Signs Test Name_Vital Signs,Vital Sign [Many],Vital Signs Test Name,What was the vital sign?,,Vital Signs,Vital Signs Measurement,IX1Nkv95bC
+Vital Signs Position_Vital Signs Position of Subject_Vital Signs,Vital Signs Position,Vital Signs Position of Subject,,,Vital Signs,null,Mapping_Not_Found
+Vitals Performed_Vital Signs Performed_Vital Signs,Vitals Performed,Vital Signs Performed,,,Vital Signs,Vital Signs Measurement Occurrence Indicator,XIwUTQWpc_
+[Many]_Lab Ref Range Lower Limit in Reported Unit_Clinical Labs,[Many],Lab Ref Range Lower Limit in Reported Unit,,,Clinical Labs,null,Mapping_Not_Found
+[Many]_Lab Ref Range Upper Limit in Reported Unit_Clinical Labs,[Many],Lab Ref Range Upper Limit in Reported Unit,,,Clinical Labs,null,Mapping_Not_Found
