@@ -1,5 +1,5 @@
 # CDE-Mapping-Tool
-Evaluation codes and relevance datasets
+**Evaluation codes and relevance datasets**
 All evaluation datasets are available in the EvaluationData folder, including one ADRD dataset, one Eye dataset, one Stroke dataset, and nine Covid datasets. You can use these datasets to test our CDEMapper tool at: https://cdemapper.clinicalnlp.org/.
 
 To use the tool, you will need to sign up with your email if you do not already have an account. After that, you can upload our evaluation data or even your own data, provided it follows the same format. If you want to use your own data, create a CSV file with three required columns: Element, Description, and Value (where multiple values are separated by "|"). For reference, you can look at the data in the EvaluationData folder.
