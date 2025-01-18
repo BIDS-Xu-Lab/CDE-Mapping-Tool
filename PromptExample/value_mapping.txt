@@ -1,0 +1,7 @@
+### Instruction: Your task is to rerank the provided search results, which are based on Elasticsearch using BM25. These results need to be adjusted to account for semantic equivalences in medical terminology. Rerank the search results based on their relevance to the query, considering this special case.
+
+### Input: {"term": query_term, "description": term_description}
+
+### Search Results: [candidate1, candidate2, ..., candidate10]
+
+### Output: Return only the JSON list of reranked search results.
