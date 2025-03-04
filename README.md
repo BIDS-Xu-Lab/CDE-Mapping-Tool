@@ -61,13 +61,21 @@ The evaluation scripts assess **retrieval and ranking performance** across diffe
 
 ---
 
-## 📄 Reference
+## 📄 Citation
 
 If you use **CDEMapper**, please cite:
 
-**Wang Y, Huang J, He H, Zhang V, Zhou Y, Hao X, Ram P, Qian L, Xie Q, Weng R, Lin F, Hu Y, Cui L, Jiang X, Xu H, Hong N.**  
-*CDEMapper: Enhancing NIH Common Data Element Normalization using Large Language Models.*  
-[arXiv:2412.00491](https://arxiv.org/abs/2412.00491)
+```bibtex
+@misc{wang2024cdemapperenhancingnihcommon,
+      title={CDEMapper: Enhancing NIH Common Data Element Normalization using Large Language Models}, 
+      author={Yan Wang and Jimin Huang and Huan He and Vincent Zhang and Yujia Zhou and Xubing Hao and Pritham Ram and Lingfei Qian and Qianqian Xie and Ruey-Ling Weng and Fongci Lin and Yan Hu and Licong Cui and Xiaoqian Jiang and Hua Xu and Na Hong},
+      year={2024},
+      eprint={2412.00491},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR},
+      url={https://arxiv.org/abs/2412.00491}, 
+}
+
 
 ---
 
