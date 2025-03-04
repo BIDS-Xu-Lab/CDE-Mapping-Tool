@@ -1,0 +1,5 @@
+Element Name,Description,Permission Values
+Gender,Represents the gender of a participant,Male | Female | Unknown/missing
+Age,Age of the participant in years,
+Smoking Status,Participant's smoking habits,Smoker | Non-Smoker | Unknown/missing
+Location,"City, State where the participant resides",Urban | Rural | Unknown/missing
