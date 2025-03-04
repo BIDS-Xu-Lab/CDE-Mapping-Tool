@@ -63,7 +63,7 @@ The evaluation scripts assess **retrieval and ranking performance** across diffe
 
 ## 📖 Usage Guide
 
-For detailed instructions on how to use **CDEMapper**, please refer to the **[CDEMapper User Manual](./CDEMapper user manual/manual.docx)**.
+For detailed instructions on how to use **CDEMapper**, please refer to the **[CDEMapper User Manual](https://github.com/BIDS-Xu-Lab/CDE-Mapping-Tool/blob/fa44643b99a6e7274ef7f6c7a1c4de9630a8f38a/CDEMapper%20user%20manual/manual.docx)**.
 
 ---
 
