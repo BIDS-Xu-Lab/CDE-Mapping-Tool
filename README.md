@@ -46,7 +46,7 @@ The evaluation scripts assess **retrieval and ranking performance** across diffe
 ### 🔍 Retrieval Evaluation:
 | Script | Description |
 |--------|------------|
-| [`evaluations_retrieval.ipynb`](./evaluations_retrieval.ipynb) | Evaluates overall retrieval performance (**Search All, Embedding Search, Query Expansion**) for **ADRD, Eye, Stroke** datasets. |
+| [`evaluations_retrieval.ipynb`](./EvaluationCode/evaluations_retrieval.ipynb) | Evaluates overall retrieval performance (**Search All, Embedding Search, Query Expansion**) for **ADRD, Eye, Stroke** datasets. |
 | [`evaluations_retrieval-specific.ipynb`](./evaluations_retrieval-specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** retrieval performance for **ADRD, Eye, Stroke** datasets. |
 | [`evaluations_retrieval-covid.ipynb`](./evaluations_retrieval-covid.ipynb) | Evaluates overall retrieval performance (**Search All, Embedding Search, Query Expansion**) for **COVID-19** dataset. |
 | [`evaluations_retrieval-covid-specific.ipynb`](./evaluations_retrieval-covid-specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** retrieval performance for **COVID-19** dataset. |
