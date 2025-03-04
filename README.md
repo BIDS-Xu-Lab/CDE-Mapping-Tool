@@ -47,17 +47,17 @@ The evaluation scripts assess **retrieval and ranking performance** across diffe
 | Script | Description |
 |--------|------------|
 | [`evaluations_retrieval.ipynb`](./EvaluationCode/evaluations_retrieval.ipynb) | Evaluates overall retrieval performance (**Search All, Embedding Search, Query Expansion**) for **ADRD, Eye, Stroke** datasets. |
-| [`evaluations_retrieval-specific.ipynb`](./evaluations_retrieval-specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** retrieval performance for **ADRD, Eye, Stroke** datasets. |
-| [`evaluations_retrieval-covid.ipynb`](./evaluations_retrieval-covid.ipynb) | Evaluates overall retrieval performance (**Search All, Embedding Search, Query Expansion**) for **COVID-19** dataset. |
-| [`evaluations_retrieval-covid-specific.ipynb`](./evaluations_retrieval-covid-specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** retrieval performance for **COVID-19** dataset. |
+| [`evaluations_retrieval-specific.ipynb`](./EvaluationCode/evaluations_retrieval-specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** retrieval performance for **ADRD, Eye, Stroke** datasets. |
+| [`evaluations_retrieval-covid.ipynb`](./EvaluationCode/evaluations_retrieval-covid.ipynb) | Evaluates overall retrieval performance (**Search All, Embedding Search, Query Expansion**) for **COVID-19** dataset. |
+| [`evaluations_retrieval-covid-specific.ipynb`](./EvaluationCode/evaluations_retrieval-covid-specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** retrieval performance for **COVID-19** dataset. |
 
 ### 📊 Ranking Evaluation:
 | Script | Description |
 |--------|------------|
-| [`evaluations_rerank.ipynb`](./evaluations_rerank.ipynb) | Evaluates overall **ranking performance** for **ADRD, Eye, Stroke** datasets using the **Re-ranking function**. |
-| [`evaluations_rerank_specific.ipynb`](./evaluations_rerank_specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** ranking performance for **ADRD, Eye, Stroke** datasets. |
-| [`evaluations_rerank-covid.ipynb`](./evaluations_rerank-covid.ipynb) | Evaluates overall **ranking performance** for **COVID-19** dataset using the **Re-ranking function**. |
-| [`evaluations_rerank-covid-specific.ipynb`](./evaluations_rerank-covid-specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** ranking performance for **COVID-19** dataset. |
+| [`evaluations_rerank.ipynb`](./EvaluationCode/evaluations_rerank.ipynb) | Evaluates overall **ranking performance** for **ADRD, Eye, Stroke** datasets using the **Re-ranking function**. |
+| [`evaluations_rerank_specific.ipynb`](./EvaluationCode/evaluations_rerank_specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** ranking performance for **ADRD, Eye, Stroke** datasets. |
+| [`evaluations_rerank-covid.ipynb`](./EvaluationCode/evaluations_rerank-covid.ipynb) | Evaluates overall **ranking performance** for **COVID-19** dataset using the **Re-ranking function**. |
+| [`evaluations_rerank-covid-specific.ipynb`](./EvaluationCode/evaluations_rerank-covid-specific.ipynb) | Evaluates **1 vs 1, M vs 1, 1 vs M** ranking performance for **COVID-19** dataset. |
 
 ---
 
